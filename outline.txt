@@ -1,0 +1,73 @@
+Biggest project ever:
+	latest stats
+
+How we do releases:
+
+2.6 was hell
+
+Never again
+
+Each kernel release is "stable"
+
+Have guaranteed this for a decade
+
+Numbers mean nothing, only that one is newer than another
+
+3.x happened because my brain hurt and I bribed Linus with whisky
+
+4.x happened, no whisky.
+
+stable kernels, started in 2005 (predated git)
+
+LTS - I did it because I was lazy, saved me work
+
+2.6.32, the release that synced the world (or was it .16?)
+
+Pick one a year, maintain it for 2 years.
+
+Usually the last kernel of the year.
+
+Well, not really, some are longer than others, I blame Willy
+
+Patch rate (6-8 a day?  Do the math...)
+
+Rules for stable kernels:
+	- correct and tested
+	- no bigger than 100 lines
+	- only fix 1 thing
+	- fix a reported issue
+	- new id or quirk
+	- must be in Linus's tree
+  rules are good to be able to say no.
+
+Everything is stable
+	can always update your kernel, will not break userspace
+	guaranteed 10 years ago, have not violated it
+	only time Linus yells at someone
+
+SoC trees suck ass, they are on their own
+	3.4million out of 3.9 running
+
+Security!
+
+never say what is a security bug.
+
+Why?  Because no one knows
+
+Linus's quote
+
+Fix as soon as possible
+
+Again, Linus's quote
+
+How to keep your system secure
+	- always take the latest stable update
+	- will not break your system
+	- do it
+	- seriously, you are fool to not to.
+
+Demo showing why this is the case (where greg breaks his phone...)
+
+
+
+
