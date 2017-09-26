@@ -9,7 +9,7 @@ Never again
 
 Each kernel release is "stable"
 
-Have guaranteed this for a decade
+Have guaranteed this for a decade (Cambridge 2007)
 
 Numbers mean nothing, only that one is newer than another
 
@@ -21,7 +21,9 @@ stable kernels, started in 2005 (predated git)
 
 LTS - I did it because I was lazy, saved me work
 
-2.6.32, the release that synced the world (or was it .16?)
+2.6.16, 2.6.27 - me being lazy
+
+2.6.32, the release that synced the world.
 
 Pick one a year, maintain it for 2 years.
 
