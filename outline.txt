@@ -69,7 +69,3 @@ How to keep your system secure
 	- seriously, you are fool to not to.
 
 Demo showing why this is the case (where greg breaks his phone...)
-
-
-
-
